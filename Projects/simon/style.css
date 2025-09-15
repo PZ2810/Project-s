@@ -26,3 +26,10 @@ body{
 .green{
     background-color: #63aac0;
 }
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(165, 234, 165);
+}
